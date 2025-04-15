@@ -1,4 +1,7 @@
 // PA2 - Task 1: UDP "Stop-and-Wait" + Packet Loss Tracking
+// Team member 1: Emma Lohrer
+// Team member 2: Jp McNerney
+// Team member 3: Clayton Curry
 
 #include <stdio.h>
 #include <stdlib.h>
